@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Siddharth Sudhakar
 
-- :green_book: I'm a Senior at SRM-IST pursuing my Bachelor's Degree in Computer Science and Engineering
+- :green_book: Data Engineer @ Swift
 - :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
 - 🤝  I'm open to collaborating on interesting projects
 
