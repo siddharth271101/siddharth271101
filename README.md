@@ -4,12 +4,23 @@ Data Engineer @ Swift — streaming (Kafka), analytics (BigQuery) and practical 
 
 ---
 
-### 🧰 Tech I work with
+### Here’s what I do well
+
+<p align="center">
+  <b>Languages</b><br/><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge" />
+</p>
 
 <p align="center">
   <b>Streaming & Processing</b><br/><br/>
   <img src="https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>Orchestration</b><br/><br/>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
 </p>
 
 <p align="center">
