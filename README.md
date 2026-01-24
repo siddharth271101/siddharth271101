@@ -1,7 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Siddharth Sudhakar
 
-Data Engineer @ Swift — streaming (Kafka), analytics (BigQuery), observability, and practical LLM automation.  
-I enjoy solving reliability + optimization problems in real production systems.
+Data Engineer @ Swift — streaming (Kafka), analytics (BigQuery) and practical LLM automation.  
 
 ---
 
