@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm Siddharth Sudhakar
 
-Data Engineer @ Swift — Kafka, BigQuery and LLM Ops.  
+Data Engineer @ DG3 — Kafka, BigQuery and LLM Ops.  
 
 ---
 
